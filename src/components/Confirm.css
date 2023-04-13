@@ -1,0 +1,39 @@
+.confirm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    }
+    
+    .confirm h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    }
+    
+    .confirm h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    }
+    
+    .confirm p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    }
+    
+    .confirm button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 1rem;
+    cursor: pointer;
+    }
+    
+    .confirm button:hover {
+    background-color: #3e8e41;
+    }
